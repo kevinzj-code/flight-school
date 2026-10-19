@@ -1,0 +1,38 @@
+[package]
+name = "airoplane-flight-school"
+version = "0.1.0"
+description = "Airoplane Mode — Flight School. Local LoRA fine-tuning, GGUF export, one-click import into Airoplane Mode."
+edition = "2021"
+
+[lib]
+name = "airoplane_flight_school_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+tauri = { version = "2", features = [] }
+tauri-plugin-dialog = "2"
+# Rust-side only: the shell plugin is what makes `app.shell().sidecar()` work for
+# llama-server. Registering it grants the WEBVIEW nothing — capabilities/default.json
+# still lists only core:default, exactly as Pigeon does it.
+tauri-plugin-shell = "2"
+tauri-plugin-window-state = "2"
+tauri-plugin-global-shortcut = "2"
+percent-encoding = "2"
+# No TLS backend on purpose. The drafting engine only ever talks to a llama-server
+# on 127.0.0.1, and a client that cannot negotiate https is a structural guarantee
+# of that rather than a promise in a comment.
+reqwest = { version = "0.12", default-features = false, features = ["json"] }
+serde = { version = "1", features = ["derive"] }
+# preserve_order: Value::Object must keep original JSON key order to match Python's
+# json.dumps() output byte-for-byte (Python dicts preserve insertion order; serde_json's
+# default BTreeMap-backed Object sorts keys alphabetically instead).
+serde_json = { version = "1", features = ["preserve_order"] }
+tokio = { version = "1", features = ["process", "io-util", "macros", "rt-multi-thread", "sync", "time"] }
+libc = "0.2.189"
+
+[profile.release]
+strip = true
+lto = true

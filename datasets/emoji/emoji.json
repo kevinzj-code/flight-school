@@ -1,0 +1,1918 @@
+[
+ {
+  "design": 0,
+  "canonical": "smiley face",
+  "name": "smiley face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M8 14Q12 17.5 16 14\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "smile",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 0,
+  "canonical": "smiley face",
+  "name": "smile",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M8 14Q12 17.5 16 14\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "smile",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 0,
+  "canonical": "smiley face",
+  "name": "happy face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M8 14Q12 17.5 16 14\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "smile",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 1,
+  "canonical": "slightly smiling face",
+  "name": "slightly smiling face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M9.5 14.5Q12 16 14.5 14.5\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "slight",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 1,
+  "canonical": "slightly smiling face",
+  "name": "small smile",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M9.5 14.5Q12 16 14.5 14.5\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "slight",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 2,
+  "canonical": "grinning face",
+  "name": "grinning face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M7.5 13.5h9Q16 18 12 18T7.5 13.5\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "grin",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 2,
+  "canonical": "grinning face",
+  "name": "big grin",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M7.5 13.5h9Q16 18 12 18T7.5 13.5\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "grin",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 2,
+  "canonical": "grinning face",
+  "name": "toothy grin",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M7.5 13.5h9Q16 18 12 18T7.5 13.5\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "grin",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 3,
+  "canonical": "beaming face",
+  "name": "beaming face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10.5Q9 8 10.5 10.5\"/><path d=\"M13.5 10.5Q15 8 16.5 10.5\"/><path d=\"M7.5 13.5h9Q16 18 12 18T7.5 13.5\"/></svg>",
+  "parts": {
+   "eyes": "happy",
+   "mouth": "grin",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 3,
+  "canonical": "beaming face",
+  "name": "happy closed eyes",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10.5Q9 8 10.5 10.5\"/><path d=\"M13.5 10.5Q15 8 16.5 10.5\"/><path d=\"M7.5 13.5h9Q16 18 12 18T7.5 13.5\"/></svg>",
+  "parts": {
+   "eyes": "happy",
+   "mouth": "grin",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 3,
+  "canonical": "beaming face",
+  "name": "joyful",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10.5Q9 8 10.5 10.5\"/><path d=\"M13.5 10.5Q15 8 16.5 10.5\"/><path d=\"M7.5 13.5h9Q16 18 12 18T7.5 13.5\"/></svg>",
+  "parts": {
+   "eyes": "happy",
+   "mouth": "grin",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 4,
+  "canonical": "laughing face",
+  "name": "laughing face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10.5Q9 8 10.5 10.5\"/><path d=\"M13.5 10.5Q15 8 16.5 10.5\"/><ellipse cx=\"12\" cy=\"15.5\" rx=\"2\" ry=\"2.5\"/></svg>",
+  "parts": {
+   "eyes": "happy",
+   "mouth": "gasp",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 4,
+  "canonical": "laughing face",
+  "name": "laughing",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10.5Q9 8 10.5 10.5\"/><path d=\"M13.5 10.5Q15 8 16.5 10.5\"/><ellipse cx=\"12\" cy=\"15.5\" rx=\"2\" ry=\"2.5\"/></svg>",
+  "parts": {
+   "eyes": "happy",
+   "mouth": "gasp",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 5,
+  "canonical": "tears of joy",
+  "name": "tears of joy",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10.5Q9 8 10.5 10.5\"/><path d=\"M13.5 10.5Q15 8 16.5 10.5\"/><path d=\"M7.5 13.5h9Q16 18 12 18T7.5 13.5\"/><path d=\"M8 12.5L6.5 16\"/><path d=\"M16 12.5L17.5 16\"/></svg>",
+  "parts": {
+   "eyes": "happy",
+   "mouth": "grin",
+   "brows": null,
+   "extras": [
+    "tears"
+   ]
+  }
+ },
+ {
+  "design": 5,
+  "canonical": "tears of joy",
+  "name": "laughing crying",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10.5Q9 8 10.5 10.5\"/><path d=\"M13.5 10.5Q15 8 16.5 10.5\"/><path d=\"M7.5 13.5h9Q16 18 12 18T7.5 13.5\"/><path d=\"M8 12.5L6.5 16\"/><path d=\"M16 12.5L17.5 16\"/></svg>",
+  "parts": {
+   "eyes": "happy",
+   "mouth": "grin",
+   "brows": null,
+   "extras": [
+    "tears"
+   ]
+  }
+ },
+ {
+  "design": 5,
+  "canonical": "tears of joy",
+  "name": "lol face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10.5Q9 8 10.5 10.5\"/><path d=\"M13.5 10.5Q15 8 16.5 10.5\"/><path d=\"M7.5 13.5h9Q16 18 12 18T7.5 13.5\"/><path d=\"M8 12.5L6.5 16\"/><path d=\"M16 12.5L17.5 16\"/></svg>",
+  "parts": {
+   "eyes": "happy",
+   "mouth": "grin",
+   "brows": null,
+   "extras": [
+    "tears"
+   ]
+  }
+ },
+ {
+  "design": 6,
+  "canonical": "frowning face",
+  "name": "frowning face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M8 16.5Q12 13 16 16.5\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "frown",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 6,
+  "canonical": "frowning face",
+  "name": "frown",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M8 16.5Q12 13 16 16.5\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "frown",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 6,
+  "canonical": "frowning face",
+  "name": "sad face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M8 16.5Q12 13 16 16.5\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "frown",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 7,
+  "canonical": "slightly frowning face",
+  "name": "slightly frowning face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M9.5 16Q12 14.5 14.5 16\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "slightfrown",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 8,
+  "canonical": "crying face",
+  "name": "crying face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M8 16.5Q12 13 16 16.5\"/><path d=\"M16 12.5L17.5 16\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "frown",
+   "brows": null,
+   "extras": [
+    "tear1"
+   ]
+  }
+ },
+ {
+  "design": 8,
+  "canonical": "crying face",
+  "name": "crying",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M8 16.5Q12 13 16 16.5\"/><path d=\"M16 12.5L17.5 16\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "frown",
+   "brows": null,
+   "extras": [
+    "tear1"
+   ]
+  }
+ },
+ {
+  "design": 8,
+  "canonical": "crying face",
+  "name": "one tear",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M8 16.5Q12 13 16 16.5\"/><path d=\"M16 12.5L17.5 16\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "frown",
+   "brows": null,
+   "extras": [
+    "tear1"
+   ]
+  }
+ },
+ {
+  "design": 9,
+  "canonical": "sobbing face",
+  "name": "sobbing face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M13.5 9.5Q15 11.5 16.5 9.5\"/><path d=\"M9 17Q12 13.5 15 17\"/><path d=\"M8 12.5L6.5 16\"/><path d=\"M16 12.5L17.5 16\"/></svg>",
+  "parts": {
+   "eyes": "closed",
+   "mouth": "cry",
+   "brows": null,
+   "extras": [
+    "tears"
+   ]
+  }
+ },
+ {
+  "design": 9,
+  "canonical": "sobbing face",
+  "name": "loudly crying",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M13.5 9.5Q15 11.5 16.5 9.5\"/><path d=\"M9 17Q12 13.5 15 17\"/><path d=\"M8 12.5L6.5 16\"/><path d=\"M16 12.5L17.5 16\"/></svg>",
+  "parts": {
+   "eyes": "closed",
+   "mouth": "cry",
+   "brows": null,
+   "extras": [
+    "tears"
+   ]
+  }
+ },
+ {
+  "design": 9,
+  "canonical": "sobbing face",
+  "name": "bawling",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M13.5 9.5Q15 11.5 16.5 9.5\"/><path d=\"M9 17Q12 13.5 15 17\"/><path d=\"M8 12.5L6.5 16\"/><path d=\"M16 12.5L17.5 16\"/></svg>",
+  "parts": {
+   "eyes": "closed",
+   "mouth": "cry",
+   "brows": null,
+   "extras": [
+    "tears"
+   ]
+  }
+ },
+ {
+  "design": 10,
+  "canonical": "neutral face",
+  "name": "neutral face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M9 15.5h6\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "flat",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 10,
+  "canonical": "neutral face",
+  "name": "neutral",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M9 15.5h6\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "flat",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 10,
+  "canonical": "neutral face",
+  "name": "straight face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M9 15.5h6\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "flat",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 11,
+  "canonical": "expressionless face",
+  "name": "expressionless face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M9 15.5h6\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "flat",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 11,
+  "canonical": "expressionless face",
+  "name": "blank face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M9 15.5h6\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "flat",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 12,
+  "canonical": "confused face",
+  "name": "confused face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M8.5 15.5q1.5-1.5 3 0t3 0\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "wavy",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 12,
+  "canonical": "confused face",
+  "name": "confused",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M8.5 15.5q1.5-1.5 3 0t3 0\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "wavy",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 13,
+  "canonical": "worried face",
+  "name": "worried face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M7 8l3-1.5\"/><path d=\"M17 8l-3-1.5\"/><path d=\"M9.5 16Q12 14.5 14.5 16\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "slightfrown",
+   "brows": "worried",
+   "extras": []
+  }
+ },
+ {
+  "design": 13,
+  "canonical": "worried face",
+  "name": "worried",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M7 8l3-1.5\"/><path d=\"M17 8l-3-1.5\"/><path d=\"M9.5 16Q12 14.5 14.5 16\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "slightfrown",
+   "brows": "worried",
+   "extras": []
+  }
+ },
+ {
+  "design": 14,
+  "canonical": "anxious face",
+  "name": "anxious face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"9\" cy=\"10\" r=\"1.5\"/><circle cx=\"15\" cy=\"10\" r=\"1.5\"/><path d=\"M7 8l3-1.5\"/><path d=\"M17 8l-3-1.5\"/><path d=\"M9 15.5h6\"/><path d=\"M20 1.5c1.2 1.7 1.9 2.7 1.9 3.4a1.9 1.9 0 0 1-3.8 0c0-.7.7-1.7 1.9-3.4z\"/></svg>",
+  "parts": {
+   "eyes": "wide",
+   "mouth": "flat",
+   "brows": "worried",
+   "extras": [
+    "sweat"
+   ]
+  }
+ },
+ {
+  "design": 14,
+  "canonical": "anxious face",
+  "name": "nervous face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"9\" cy=\"10\" r=\"1.5\"/><circle cx=\"15\" cy=\"10\" r=\"1.5\"/><path d=\"M7 8l3-1.5\"/><path d=\"M17 8l-3-1.5\"/><path d=\"M9 15.5h6\"/><path d=\"M20 1.5c1.2 1.7 1.9 2.7 1.9 3.4a1.9 1.9 0 0 1-3.8 0c0-.7.7-1.7 1.9-3.4z\"/></svg>",
+  "parts": {
+   "eyes": "wide",
+   "mouth": "flat",
+   "brows": "worried",
+   "extras": [
+    "sweat"
+   ]
+  }
+ },
+ {
+  "design": 14,
+  "canonical": "anxious face",
+  "name": "sweating",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"9\" cy=\"10\" r=\"1.5\"/><circle cx=\"15\" cy=\"10\" r=\"1.5\"/><path d=\"M7 8l3-1.5\"/><path d=\"M17 8l-3-1.5\"/><path d=\"M9 15.5h6\"/><path d=\"M20 1.5c1.2 1.7 1.9 2.7 1.9 3.4a1.9 1.9 0 0 1-3.8 0c0-.7.7-1.7 1.9-3.4z\"/></svg>",
+  "parts": {
+   "eyes": "wide",
+   "mouth": "flat",
+   "brows": "worried",
+   "extras": [
+    "sweat"
+   ]
+  }
+ },
+ {
+  "design": 15,
+  "canonical": "angry face",
+  "name": "angry face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M7 7l3 1.5\"/><path d=\"M17 7l-3 1.5\"/><path d=\"M8 16.5Q12 13 16 16.5\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "frown",
+   "brows": "angry",
+   "extras": []
+  }
+ },
+ {
+  "design": 15,
+  "canonical": "angry face",
+  "name": "angry",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M7 7l3 1.5\"/><path d=\"M17 7l-3 1.5\"/><path d=\"M8 16.5Q12 13 16 16.5\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "frown",
+   "brows": "angry",
+   "extras": []
+  }
+ },
+ {
+  "design": 15,
+  "canonical": "angry face",
+  "name": "mad face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M7 7l3 1.5\"/><path d=\"M17 7l-3 1.5\"/><path d=\"M8 16.5Q12 13 16 16.5\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "frown",
+   "brows": "angry",
+   "extras": []
+  }
+ },
+ {
+  "design": 16,
+  "canonical": "pouting face",
+  "name": "pouting face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M7 7l3 1.5\"/><path d=\"M17 7l-3 1.5\"/><path d=\"M10.5 16.5q1.5-2 3 0\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "pout",
+   "brows": "angry",
+   "extras": []
+  }
+ },
+ {
+  "design": 16,
+  "canonical": "pouting face",
+  "name": "furious face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M7 7l3 1.5\"/><path d=\"M17 7l-3 1.5\"/><path d=\"M10.5 16.5q1.5-2 3 0\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "pout",
+   "brows": "angry",
+   "extras": []
+  }
+ },
+ {
+  "design": 16,
+  "canonical": "pouting face",
+  "name": "rage",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M7 7l3 1.5\"/><path d=\"M17 7l-3 1.5\"/><path d=\"M10.5 16.5q1.5-2 3 0\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "pout",
+   "brows": "angry",
+   "extras": []
+  }
+ },
+ {
+  "design": 17,
+  "canonical": "surprised face",
+  "name": "surprised face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M7.5 7.5Q9 6 10.5 7.5\"/><path d=\"M13.5 7.5Q15 6 16.5 7.5\"/><circle cx=\"12\" cy=\"15.5\" r=\"2\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "open",
+   "brows": "raised",
+   "extras": []
+  }
+ },
+ {
+  "design": 17,
+  "canonical": "surprised face",
+  "name": "surprised",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M7.5 7.5Q9 6 10.5 7.5\"/><path d=\"M13.5 7.5Q15 6 16.5 7.5\"/><circle cx=\"12\" cy=\"15.5\" r=\"2\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "open",
+   "brows": "raised",
+   "extras": []
+  }
+ },
+ {
+  "design": 17,
+  "canonical": "surprised face",
+  "name": "shocked face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M7.5 7.5Q9 6 10.5 7.5\"/><path d=\"M13.5 7.5Q15 6 16.5 7.5\"/><circle cx=\"12\" cy=\"15.5\" r=\"2\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "open",
+   "brows": "raised",
+   "extras": []
+  }
+ },
+ {
+  "design": 18,
+  "canonical": "astonished face",
+  "name": "astonished face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"9\" cy=\"10\" r=\"1.5\"/><circle cx=\"15\" cy=\"10\" r=\"1.5\"/><path d=\"M7.5 7.5Q9 6 10.5 7.5\"/><path d=\"M13.5 7.5Q15 6 16.5 7.5\"/><ellipse cx=\"12\" cy=\"15.5\" rx=\"2\" ry=\"2.5\"/></svg>",
+  "parts": {
+   "eyes": "wide",
+   "mouth": "gasp",
+   "brows": "raised",
+   "extras": []
+  }
+ },
+ {
+  "design": 18,
+  "canonical": "astonished face",
+  "name": "gasping",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"9\" cy=\"10\" r=\"1.5\"/><circle cx=\"15\" cy=\"10\" r=\"1.5\"/><path d=\"M7.5 7.5Q9 6 10.5 7.5\"/><path d=\"M13.5 7.5Q15 6 16.5 7.5\"/><ellipse cx=\"12\" cy=\"15.5\" rx=\"2\" ry=\"2.5\"/></svg>",
+  "parts": {
+   "eyes": "wide",
+   "mouth": "gasp",
+   "brows": "raised",
+   "extras": []
+  }
+ },
+ {
+  "design": 18,
+  "canonical": "astonished face",
+  "name": "jaw drop",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"9\" cy=\"10\" r=\"1.5\"/><circle cx=\"15\" cy=\"10\" r=\"1.5\"/><path d=\"M7.5 7.5Q9 6 10.5 7.5\"/><path d=\"M13.5 7.5Q15 6 16.5 7.5\"/><ellipse cx=\"12\" cy=\"15.5\" rx=\"2\" ry=\"2.5\"/></svg>",
+  "parts": {
+   "eyes": "wide",
+   "mouth": "gasp",
+   "brows": "raised",
+   "extras": []
+  }
+ },
+ {
+  "design": 19,
+  "canonical": "sleepy face",
+  "name": "sleepy face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M13.5 9.5Q15 11.5 16.5 9.5\"/><path d=\"M9 15.5h6\"/><path d=\"M16.5 3h3l-3 3h3\"/></svg>",
+  "parts": {
+   "eyes": "closed",
+   "mouth": "flat",
+   "brows": null,
+   "extras": [
+    "zzz"
+   ]
+  }
+ },
+ {
+  "design": 19,
+  "canonical": "sleepy face",
+  "name": "sleeping face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M13.5 9.5Q15 11.5 16.5 9.5\"/><path d=\"M9 15.5h6\"/><path d=\"M16.5 3h3l-3 3h3\"/></svg>",
+  "parts": {
+   "eyes": "closed",
+   "mouth": "flat",
+   "brows": null,
+   "extras": [
+    "zzz"
+   ]
+  }
+ },
+ {
+  "design": 19,
+  "canonical": "sleepy face",
+  "name": "asleep",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M13.5 9.5Q15 11.5 16.5 9.5\"/><path d=\"M9 15.5h6\"/><path d=\"M16.5 3h3l-3 3h3\"/></svg>",
+  "parts": {
+   "eyes": "closed",
+   "mouth": "flat",
+   "brows": null,
+   "extras": [
+    "zzz"
+   ]
+  }
+ },
+ {
+  "design": 20,
+  "canonical": "tired face",
+  "name": "tired face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M7 8l3-1.5\"/><path d=\"M17 8l-3-1.5\"/><path d=\"M9.5 16Q12 14.5 14.5 16\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "slightfrown",
+   "brows": "worried",
+   "extras": []
+  }
+ },
+ {
+  "design": 20,
+  "canonical": "tired face",
+  "name": "exhausted",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M7 8l3-1.5\"/><path d=\"M17 8l-3-1.5\"/><path d=\"M9.5 16Q12 14.5 14.5 16\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "slightfrown",
+   "brows": "worried",
+   "extras": []
+  }
+ },
+ {
+  "design": 21,
+  "canonical": "yawning face",
+  "name": "yawning face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M13.5 9.5Q15 11.5 16.5 9.5\"/><ellipse cx=\"12\" cy=\"15.5\" rx=\"2\" ry=\"2.5\"/></svg>",
+  "parts": {
+   "eyes": "closed",
+   "mouth": "gasp",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 21,
+  "canonical": "yawning face",
+  "name": "yawn",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M13.5 9.5Q15 11.5 16.5 9.5\"/><ellipse cx=\"12\" cy=\"15.5\" rx=\"2\" ry=\"2.5\"/></svg>",
+  "parts": {
+   "eyes": "closed",
+   "mouth": "gasp",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 22,
+  "canonical": "winking face",
+  "name": "winking face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M8 14Q12 17.5 16 14\"/></svg>",
+  "parts": {
+   "eyes": "wink",
+   "mouth": "smile",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 22,
+  "canonical": "winking face",
+  "name": "wink",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M8 14Q12 17.5 16 14\"/></svg>",
+  "parts": {
+   "eyes": "wink",
+   "mouth": "smile",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 23,
+  "canonical": "kissing face",
+  "name": "kissing face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M13.5 9.5Q15 11.5 16.5 9.5\"/><ellipse cx=\"12\" cy=\"15.5\" rx=\"2\" ry=\"1.5\"/></svg>",
+  "parts": {
+   "eyes": "closed",
+   "mouth": "kiss",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 23,
+  "canonical": "kissing face",
+  "name": "kiss face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M13.5 9.5Q15 11.5 16.5 9.5\"/><ellipse cx=\"12\" cy=\"15.5\" rx=\"2\" ry=\"1.5\"/></svg>",
+  "parts": {
+   "eyes": "closed",
+   "mouth": "kiss",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 23,
+  "canonical": "kissing face",
+  "name": "blowing a kiss",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M13.5 9.5Q15 11.5 16.5 9.5\"/><ellipse cx=\"12\" cy=\"15.5\" rx=\"2\" ry=\"1.5\"/></svg>",
+  "parts": {
+   "eyes": "closed",
+   "mouth": "kiss",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 24,
+  "canonical": "smiling face with hearts",
+  "name": "smiling face with hearts",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 11.5Q7 9.5 8 8.5T9 9.5Q10 8 11 8.5T9 11.5\"/><path d=\"M15 11.5Q13 9.5 14 8.5T15 9.5Q16 8 17 8.5T15 11.5\"/><path d=\"M8 14Q12 17.5 16 14\"/></svg>",
+  "parts": {
+   "eyes": "hearts",
+   "mouth": "smile",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 24,
+  "canonical": "smiling face with hearts",
+  "name": "heart eyes",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 11.5Q7 9.5 8 8.5T9 9.5Q10 8 11 8.5T9 11.5\"/><path d=\"M15 11.5Q13 9.5 14 8.5T15 9.5Q16 8 17 8.5T15 11.5\"/><path d=\"M8 14Q12 17.5 16 14\"/></svg>",
+  "parts": {
+   "eyes": "hearts",
+   "mouth": "smile",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 24,
+  "canonical": "smiling face with hearts",
+  "name": "in love",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 11.5Q7 9.5 8 8.5T9 9.5Q10 8 11 8.5T9 11.5\"/><path d=\"M15 11.5Q13 9.5 14 8.5T15 9.5Q16 8 17 8.5T15 11.5\"/><path d=\"M8 14Q12 17.5 16 14\"/></svg>",
+  "parts": {
+   "eyes": "hearts",
+   "mouth": "smile",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 25,
+  "canonical": "dizzy face",
+  "name": "dizzy face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 8.5l3 3\"/><path d=\"M10.5 8.5l-3 3\"/><path d=\"M13.5 8.5l3 3\"/><path d=\"M16.5 8.5l-3 3\"/><path d=\"M8.5 15.5q1.5-1.5 3 0t3 0\"/></svg>",
+  "parts": {
+   "eyes": "x",
+   "mouth": "wavy",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 25,
+  "canonical": "dizzy face",
+  "name": "knocked out",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 8.5l3 3\"/><path d=\"M10.5 8.5l-3 3\"/><path d=\"M13.5 8.5l3 3\"/><path d=\"M16.5 8.5l-3 3\"/><path d=\"M8.5 15.5q1.5-1.5 3 0t3 0\"/></svg>",
+  "parts": {
+   "eyes": "x",
+   "mouth": "wavy",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 25,
+  "canonical": "dizzy face",
+  "name": "x eyes",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 8.5l3 3\"/><path d=\"M10.5 8.5l-3 3\"/><path d=\"M13.5 8.5l3 3\"/><path d=\"M16.5 8.5l-3 3\"/><path d=\"M8.5 15.5q1.5-1.5 3 0t3 0\"/></svg>",
+  "parts": {
+   "eyes": "x",
+   "mouth": "wavy",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 26,
+  "canonical": "woozy face",
+  "name": "woozy face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10Q9 8.5 10.5 10\"/><path d=\"M13.5 10Q15 11.5 16.5 10\"/><path d=\"M8.5 15.5q1.5-1.5 3 0t3 0\"/></svg>",
+  "parts": {
+   "eyes": "wobble",
+   "mouth": "wavy",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 26,
+  "canonical": "woozy face",
+  "name": "woozy",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10Q9 8.5 10.5 10\"/><path d=\"M13.5 10Q15 11.5 16.5 10\"/><path d=\"M8.5 15.5q1.5-1.5 3 0t3 0\"/></svg>",
+  "parts": {
+   "eyes": "wobble",
+   "mouth": "wavy",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 27,
+  "canonical": "nauseated face",
+  "name": "nauseated face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M7 8l3-1.5\"/><path d=\"M17 8l-3-1.5\"/><path d=\"M8.5 15.5q1.5-1.5 3 0t3 0\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "wavy",
+   "brows": "worried",
+   "extras": []
+  }
+ },
+ {
+  "design": 27,
+  "canonical": "nauseated face",
+  "name": "sick face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M7 8l3-1.5\"/><path d=\"M17 8l-3-1.5\"/><path d=\"M8.5 15.5q1.5-1.5 3 0t3 0\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "wavy",
+   "brows": "worried",
+   "extras": []
+  }
+ },
+ {
+  "design": 27,
+  "canonical": "nauseated face",
+  "name": "queasy",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M7 8l3-1.5\"/><path d=\"M17 8l-3-1.5\"/><path d=\"M8.5 15.5q1.5-1.5 3 0t3 0\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "wavy",
+   "brows": "worried",
+   "extras": []
+  }
+ },
+ {
+  "design": 28,
+  "canonical": "thinking face",
+  "name": "thinking face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M7.5 7.3Q9 6.7 10.5 7.3\"/><path d=\"M13.5 7Q15 5 16.5 7\"/><path d=\"M9 15.5Q12 17 15 14.5\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "smirk",
+   "brows": "cocked",
+   "extras": []
+  }
+ },
+ {
+  "design": 28,
+  "canonical": "thinking face",
+  "name": "thinking",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M7.5 7.3Q9 6.7 10.5 7.3\"/><path d=\"M13.5 7Q15 5 16.5 7\"/><path d=\"M9 15.5Q12 17 15 14.5\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "smirk",
+   "brows": "cocked",
+   "extras": []
+  }
+ },
+ {
+  "design": 29,
+  "canonical": "smirking face",
+  "name": "smirking face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M9 15.5Q12 17 15 14.5\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "smirk",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 29,
+  "canonical": "smirking face",
+  "name": "smirk",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M9 15.5Q12 17 15 14.5\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "smirk",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 29,
+  "canonical": "smirking face",
+  "name": "sly face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M9 15.5Q12 17 15 14.5\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "smirk",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 30,
+  "canonical": "unamused face",
+  "name": "unamused face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M9.5 16Q12 14.5 14.5 16\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "slightfrown",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 30,
+  "canonical": "unamused face",
+  "name": "unimpressed",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M9.5 16Q12 14.5 14.5 16\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "slightfrown",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 30,
+  "canonical": "unamused face",
+  "name": "side eye",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M9.5 16Q12 14.5 14.5 16\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "slightfrown",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 31,
+  "canonical": "relieved face",
+  "name": "relieved face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M13.5 9.5Q15 11.5 16.5 9.5\"/><path d=\"M9.5 14.5Q12 16 14.5 14.5\"/></svg>",
+  "parts": {
+   "eyes": "closed",
+   "mouth": "slight",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 31,
+  "canonical": "relieved face",
+  "name": "content face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M13.5 9.5Q15 11.5 16.5 9.5\"/><path d=\"M9.5 14.5Q12 16 14.5 14.5\"/></svg>",
+  "parts": {
+   "eyes": "closed",
+   "mouth": "slight",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 31,
+  "canonical": "relieved face",
+  "name": "calm",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M13.5 9.5Q15 11.5 16.5 9.5\"/><path d=\"M9.5 14.5Q12 16 14.5 14.5\"/></svg>",
+  "parts": {
+   "eyes": "closed",
+   "mouth": "slight",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 32,
+  "canonical": "pleading face",
+  "name": "pleading face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"9\" cy=\"10\" r=\"1.5\"/><circle cx=\"15\" cy=\"10\" r=\"1.5\"/><path d=\"M7 8l3-1.5\"/><path d=\"M17 8l-3-1.5\"/><path d=\"M9.5 16Q12 14.5 14.5 16\"/></svg>",
+  "parts": {
+   "eyes": "wide",
+   "mouth": "slightfrown",
+   "brows": "worried",
+   "extras": []
+  }
+ },
+ {
+  "design": 32,
+  "canonical": "pleading face",
+  "name": "puppy eyes",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"9\" cy=\"10\" r=\"1.5\"/><circle cx=\"15\" cy=\"10\" r=\"1.5\"/><path d=\"M7 8l3-1.5\"/><path d=\"M17 8l-3-1.5\"/><path d=\"M9.5 16Q12 14.5 14.5 16\"/></svg>",
+  "parts": {
+   "eyes": "wide",
+   "mouth": "slightfrown",
+   "brows": "worried",
+   "extras": []
+  }
+ },
+ {
+  "design": 32,
+  "canonical": "pleading face",
+  "name": "begging",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"9\" cy=\"10\" r=\"1.5\"/><circle cx=\"15\" cy=\"10\" r=\"1.5\"/><path d=\"M7 8l3-1.5\"/><path d=\"M17 8l-3-1.5\"/><path d=\"M9.5 16Q12 14.5 14.5 16\"/></svg>",
+  "parts": {
+   "eyes": "wide",
+   "mouth": "slightfrown",
+   "brows": "worried",
+   "extras": []
+  }
+ },
+ {
+  "design": 33,
+  "canonical": "grimacing face",
+  "name": "grimacing face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M7.5 14.5h9\"/><path d=\"M7.5 14.5q4.5 4 9 0\"/><path d=\"M10.5 14.5v2.5\"/><path d=\"M13.5 14.5v2.5\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "teeth",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 33,
+  "canonical": "grimacing face",
+  "name": "grimace",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M7.5 14.5h9\"/><path d=\"M7.5 14.5q4.5 4 9 0\"/><path d=\"M10.5 14.5v2.5\"/><path d=\"M13.5 14.5v2.5\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "teeth",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 33,
+  "canonical": "grimacing face",
+  "name": "awkward",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M7.5 14.5h9\"/><path d=\"M7.5 14.5q4.5 4 9 0\"/><path d=\"M10.5 14.5v2.5\"/><path d=\"M13.5 14.5v2.5\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "teeth",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 34,
+  "canonical": "zipper mouth face",
+  "name": "zipper mouth face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M8 15.5h8\"/><path d=\"M10 14.5v2\"/><path d=\"M14 14.5v2\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "zip",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 34,
+  "canonical": "zipper mouth face",
+  "name": "sealed lips",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M8 15.5h8\"/><path d=\"M10 14.5v2\"/><path d=\"M14 14.5v2\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "zip",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 34,
+  "canonical": "zipper mouth face",
+  "name": "keeping a secret",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9.5v1.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M8 15.5h8\"/><path d=\"M10 14.5v2\"/><path d=\"M14 14.5v2\"/></svg>",
+  "parts": {
+   "eyes": "dots",
+   "mouth": "zip",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 35,
+  "canonical": "nerd face",
+  "name": "nerd face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"9\" cy=\"10\" r=\"2\"/><circle cx=\"15\" cy=\"10\" r=\"2\"/><path d=\"M11 10h2\"/><path d=\"M8 14Q12 17.5 16 14\"/></svg>",
+  "parts": {
+   "eyes": "glasses",
+   "mouth": "smile",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 35,
+  "canonical": "nerd face",
+  "name": "face with glasses",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"9\" cy=\"10\" r=\"2\"/><circle cx=\"15\" cy=\"10\" r=\"2\"/><path d=\"M11 10h2\"/><path d=\"M8 14Q12 17.5 16 14\"/></svg>",
+  "parts": {
+   "eyes": "glasses",
+   "mouth": "smile",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 35,
+  "canonical": "nerd face",
+  "name": "studious",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"9\" cy=\"10\" r=\"2\"/><circle cx=\"15\" cy=\"10\" r=\"2\"/><path d=\"M11 10h2\"/><path d=\"M8 14Q12 17.5 16 14\"/></svg>",
+  "parts": {
+   "eyes": "glasses",
+   "mouth": "smile",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 36,
+  "canonical": "cool face",
+  "name": "cool face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M6.5 9h11\"/><path d=\"M7.5 9v2.5h3V9\"/><path d=\"M13.5 9v2.5h3V9\"/><path d=\"M9 15.5Q12 17 15 14.5\"/></svg>",
+  "parts": {
+   "eyes": "shades",
+   "mouth": "smirk",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 36,
+  "canonical": "cool face",
+  "name": "face with sunglasses",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M6.5 9h11\"/><path d=\"M7.5 9v2.5h3V9\"/><path d=\"M13.5 9v2.5h3V9\"/><path d=\"M9 15.5Q12 17 15 14.5\"/></svg>",
+  "parts": {
+   "eyes": "shades",
+   "mouth": "smirk",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 36,
+  "canonical": "cool face",
+  "name": "sunglasses",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M6.5 9h11\"/><path d=\"M7.5 9v2.5h3V9\"/><path d=\"M13.5 9v2.5h3V9\"/><path d=\"M9 15.5Q12 17 15 14.5\"/></svg>",
+  "parts": {
+   "eyes": "shades",
+   "mouth": "smirk",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 37,
+  "canonical": "innocent face",
+  "name": "innocent face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10.5Q9 8 10.5 10.5\"/><path d=\"M13.5 10.5Q15 8 16.5 10.5\"/><path d=\"M9.5 14.5Q12 16 14.5 14.5\"/><ellipse cx=\"12\" cy=\"1.5\" rx=\"4.5\" ry=\"1.5\"/></svg>",
+  "parts": {
+   "eyes": "happy",
+   "mouth": "slight",
+   "brows": null,
+   "extras": [
+    "halo"
+   ]
+  }
+ },
+ {
+  "design": 37,
+  "canonical": "innocent face",
+  "name": "angel face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10.5Q9 8 10.5 10.5\"/><path d=\"M13.5 10.5Q15 8 16.5 10.5\"/><path d=\"M9.5 14.5Q12 16 14.5 14.5\"/><ellipse cx=\"12\" cy=\"1.5\" rx=\"4.5\" ry=\"1.5\"/></svg>",
+  "parts": {
+   "eyes": "happy",
+   "mouth": "slight",
+   "brows": null,
+   "extras": [
+    "halo"
+   ]
+  }
+ },
+ {
+  "design": 37,
+  "canonical": "innocent face",
+  "name": "halo face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10.5Q9 8 10.5 10.5\"/><path d=\"M13.5 10.5Q15 8 16.5 10.5\"/><path d=\"M9.5 14.5Q12 16 14.5 14.5\"/><ellipse cx=\"12\" cy=\"1.5\" rx=\"4.5\" ry=\"1.5\"/></svg>",
+  "parts": {
+   "eyes": "happy",
+   "mouth": "slight",
+   "brows": null,
+   "extras": [
+    "halo"
+   ]
+  }
+ },
+ {
+  "design": 38,
+  "canonical": "devil face",
+  "name": "devil face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M7 7l3 1.5\"/><path d=\"M17 7l-3 1.5\"/><path d=\"M9 15.5Q12 17 15 14.5\"/><path d=\"M4.5 6.5l1-3 2.5 1.5\"/><path d=\"M19.5 6.5l-1-3-2.5 1.5\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "smirk",
+   "brows": "angry",
+   "extras": [
+    "horns"
+   ]
+  }
+ },
+ {
+  "design": 38,
+  "canonical": "devil face",
+  "name": "smiling imp",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M7 7l3 1.5\"/><path d=\"M17 7l-3 1.5\"/><path d=\"M9 15.5Q12 17 15 14.5\"/><path d=\"M4.5 6.5l1-3 2.5 1.5\"/><path d=\"M19.5 6.5l-1-3-2.5 1.5\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "smirk",
+   "brows": "angry",
+   "extras": [
+    "horns"
+   ]
+  }
+ },
+ {
+  "design": 38,
+  "canonical": "devil face",
+  "name": "mischief",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M7 7l3 1.5\"/><path d=\"M17 7l-3 1.5\"/><path d=\"M9 15.5Q12 17 15 14.5\"/><path d=\"M4.5 6.5l1-3 2.5 1.5\"/><path d=\"M19.5 6.5l-1-3-2.5 1.5\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "smirk",
+   "brows": "angry",
+   "extras": [
+    "horns"
+   ]
+  }
+ },
+ {
+  "design": 39,
+  "canonical": "party face",
+  "name": "party face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10.5Q9 8 10.5 10.5\"/><path d=\"M13.5 10.5Q15 8 16.5 10.5\"/><circle cx=\"12\" cy=\"15.5\" r=\"2\"/><path d=\"M8 4.5L12 1l4 3.5\"/></svg>",
+  "parts": {
+   "eyes": "happy",
+   "mouth": "open",
+   "brows": null,
+   "extras": [
+    "hat"
+   ]
+  }
+ },
+ {
+  "design": 39,
+  "canonical": "party face",
+  "name": "celebrating",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10.5Q9 8 10.5 10.5\"/><path d=\"M13.5 10.5Q15 8 16.5 10.5\"/><circle cx=\"12\" cy=\"15.5\" r=\"2\"/><path d=\"M8 4.5L12 1l4 3.5\"/></svg>",
+  "parts": {
+   "eyes": "happy",
+   "mouth": "open",
+   "brows": null,
+   "extras": [
+    "hat"
+   ]
+  }
+ },
+ {
+  "design": 39,
+  "canonical": "party face",
+  "name": "party hat",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10.5Q9 8 10.5 10.5\"/><path d=\"M13.5 10.5Q15 8 16.5 10.5\"/><circle cx=\"12\" cy=\"15.5\" r=\"2\"/><path d=\"M8 4.5L12 1l4 3.5\"/></svg>",
+  "parts": {
+   "eyes": "happy",
+   "mouth": "open",
+   "brows": null,
+   "extras": [
+    "hat"
+   ]
+  }
+ },
+ {
+  "design": 40,
+  "canonical": "resigned face",
+  "name": "resigned face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M13.5 9.5Q15 11.5 16.5 9.5\"/><path d=\"M8 16.5Q12 13 16 16.5\"/></svg>",
+  "parts": {
+   "eyes": "closed",
+   "mouth": "frown",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 40,
+  "canonical": "resigned face",
+  "name": "sad closed eyes",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M13.5 9.5Q15 11.5 16.5 9.5\"/><path d=\"M8 16.5Q12 13 16 16.5\"/></svg>",
+  "parts": {
+   "eyes": "closed",
+   "mouth": "frown",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 40,
+  "canonical": "resigned face",
+  "name": "defeated",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M13.5 9.5Q15 11.5 16.5 9.5\"/><path d=\"M8 16.5Q12 13 16 16.5\"/></svg>",
+  "parts": {
+   "eyes": "closed",
+   "mouth": "frown",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 41,
+  "canonical": "injured face",
+  "name": "injured face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M9.5 16Q12 14.5 14.5 16\"/><path d=\"M13.5 5.5l3 2.5\"/><path d=\"M16.5 5l-3 3\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "slightfrown",
+   "brows": null,
+   "extras": [
+    "bandage"
+   ]
+  }
+ },
+ {
+  "design": 41,
+  "canonical": "injured face",
+  "name": "face with bandage",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M9.5 16Q12 14.5 14.5 16\"/><path d=\"M13.5 5.5l3 2.5\"/><path d=\"M16.5 5l-3 3\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "slightfrown",
+   "brows": null,
+   "extras": [
+    "bandage"
+   ]
+  }
+ },
+ {
+  "design": 41,
+  "canonical": "injured face",
+  "name": "hurt",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M9.5 16Q12 14.5 14.5 16\"/><path d=\"M13.5 5.5l3 2.5\"/><path d=\"M16.5 5l-3 3\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "slightfrown",
+   "brows": null,
+   "extras": [
+    "bandage"
+   ]
+  }
+ },
+ {
+  "design": 42,
+  "canonical": "tongue out face",
+  "name": "tongue out face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M8 14Q12 17.5 16 14\"/><path d=\"M10.5 16v1.5a1.5 1.5 0 0 0 3 0V16\"/></svg>",
+  "parts": {
+   "eyes": "wink",
+   "mouth": "tongue",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 42,
+  "canonical": "tongue out face",
+  "name": "silly face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M8 14Q12 17.5 16 14\"/><path d=\"M10.5 16v1.5a1.5 1.5 0 0 0 3 0V16\"/></svg>",
+  "parts": {
+   "eyes": "wink",
+   "mouth": "tongue",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 42,
+  "canonical": "tongue out face",
+  "name": "cheeky",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M8 14Q12 17.5 16 14\"/><path d=\"M10.5 16v1.5a1.5 1.5 0 0 0 3 0V16\"/></svg>",
+  "parts": {
+   "eyes": "wink",
+   "mouth": "tongue",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 43,
+  "canonical": "blushing face",
+  "name": "blushing face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10.5Q9 8 10.5 10.5\"/><path d=\"M13.5 10.5Q15 8 16.5 10.5\"/><path d=\"M9.5 14.5Q12 16 14.5 14.5\"/><path d=\"M6 13.5h1.5\"/><path d=\"M16.5 13.5H18\"/></svg>",
+  "parts": {
+   "eyes": "happy",
+   "mouth": "slight",
+   "brows": null,
+   "extras": [
+    "blush"
+   ]
+  }
+ },
+ {
+  "design": 43,
+  "canonical": "blushing face",
+  "name": "shy face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10.5Q9 8 10.5 10.5\"/><path d=\"M13.5 10.5Q15 8 16.5 10.5\"/><path d=\"M9.5 14.5Q12 16 14.5 14.5\"/><path d=\"M6 13.5h1.5\"/><path d=\"M16.5 13.5H18\"/></svg>",
+  "parts": {
+   "eyes": "happy",
+   "mouth": "slight",
+   "brows": null,
+   "extras": [
+    "blush"
+   ]
+  }
+ },
+ {
+  "design": 43,
+  "canonical": "blushing face",
+  "name": "flustered",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10.5Q9 8 10.5 10.5\"/><path d=\"M13.5 10.5Q15 8 16.5 10.5\"/><path d=\"M9.5 14.5Q12 16 14.5 14.5\"/><path d=\"M6 13.5h1.5\"/><path d=\"M16.5 13.5H18\"/></svg>",
+  "parts": {
+   "eyes": "happy",
+   "mouth": "slight",
+   "brows": null,
+   "extras": [
+    "blush"
+   ]
+  }
+ },
+ {
+  "design": 44,
+  "canonical": "embarrassed face",
+  "name": "embarrassed face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M9.5 14.5Q12 16 14.5 14.5\"/><path d=\"M20 1.5c1.2 1.7 1.9 2.7 1.9 3.4a1.9 1.9 0 0 1-3.8 0c0-.7.7-1.7 1.9-3.4z\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "slight",
+   "brows": null,
+   "extras": [
+    "sweat"
+   ]
+  }
+ },
+ {
+  "design": 44,
+  "canonical": "embarrassed face",
+  "name": "awkward smile",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M9.5 14.5Q12 16 14.5 14.5\"/><path d=\"M20 1.5c1.2 1.7 1.9 2.7 1.9 3.4a1.9 1.9 0 0 1-3.8 0c0-.7.7-1.7 1.9-3.4z\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "slight",
+   "brows": null,
+   "extras": [
+    "sweat"
+   ]
+  }
+ },
+ {
+  "design": 45,
+  "canonical": "shocked and sad",
+  "name": "shocked and sad",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"9\" cy=\"10\" r=\"1.5\"/><circle cx=\"15\" cy=\"10\" r=\"1.5\"/><path d=\"M7 8l3-1.5\"/><path d=\"M17 8l-3-1.5\"/><path d=\"M8 16.5Q12 13 16 16.5\"/></svg>",
+  "parts": {
+   "eyes": "wide",
+   "mouth": "frown",
+   "brows": "worried",
+   "extras": []
+  }
+ },
+ {
+  "design": 45,
+  "canonical": "shocked and sad",
+  "name": "dismayed",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"9\" cy=\"10\" r=\"1.5\"/><circle cx=\"15\" cy=\"10\" r=\"1.5\"/><path d=\"M7 8l3-1.5\"/><path d=\"M17 8l-3-1.5\"/><path d=\"M8 16.5Q12 13 16 16.5\"/></svg>",
+  "parts": {
+   "eyes": "wide",
+   "mouth": "frown",
+   "brows": "worried",
+   "extras": []
+  }
+ },
+ {
+  "design": 46,
+  "canonical": "sleepy wink",
+  "name": "sleepy wink",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M9 15.5h6\"/><path d=\"M16.5 3h3l-3 3h3\"/></svg>",
+  "parts": {
+   "eyes": "wink",
+   "mouth": "flat",
+   "brows": null,
+   "extras": [
+    "zzz"
+   ]
+  }
+ },
+ {
+  "design": 46,
+  "canonical": "sleepy wink",
+  "name": "drowsy",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M9 15.5h6\"/><path d=\"M16.5 3h3l-3 3h3\"/></svg>",
+  "parts": {
+   "eyes": "wink",
+   "mouth": "flat",
+   "brows": null,
+   "extras": [
+    "zzz"
+   ]
+  }
+ },
+ {
+  "design": 47,
+  "canonical": "big smile closed eyes",
+  "name": "big smile closed eyes",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M13.5 9.5Q15 11.5 16.5 9.5\"/><path d=\"M8 14Q12 17.5 16 14\"/></svg>",
+  "parts": {
+   "eyes": "closed",
+   "mouth": "smile",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 47,
+  "canonical": "big smile closed eyes",
+  "name": "delighted",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M13.5 9.5Q15 11.5 16.5 9.5\"/><path d=\"M8 14Q12 17.5 16 14\"/></svg>",
+  "parts": {
+   "eyes": "closed",
+   "mouth": "smile",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 48,
+  "canonical": "angry shouting",
+  "name": "angry shouting",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M7 7l3 1.5\"/><path d=\"M17 7l-3 1.5\"/><ellipse cx=\"12\" cy=\"15.5\" rx=\"2\" ry=\"2.5\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "gasp",
+   "brows": "angry",
+   "extras": []
+  }
+ },
+ {
+  "design": 48,
+  "canonical": "angry shouting",
+  "name": "yelling face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M7 7l3 1.5\"/><path d=\"M17 7l-3 1.5\"/><ellipse cx=\"12\" cy=\"15.5\" rx=\"2\" ry=\"2.5\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "gasp",
+   "brows": "angry",
+   "extras": []
+  }
+ },
+ {
+  "design": 49,
+  "canonical": "surprised and happy",
+  "name": "surprised and happy",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"9\" cy=\"10\" r=\"1.5\"/><circle cx=\"15\" cy=\"10\" r=\"1.5\"/><path d=\"M7.5 7.5Q9 6 10.5 7.5\"/><path d=\"M13.5 7.5Q15 6 16.5 7.5\"/><path d=\"M7.5 13.5h9Q16 18 12 18T7.5 13.5\"/></svg>",
+  "parts": {
+   "eyes": "wide",
+   "mouth": "grin",
+   "brows": "raised",
+   "extras": []
+  }
+ },
+ {
+  "design": 49,
+  "canonical": "surprised and happy",
+  "name": "excited face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"9\" cy=\"10\" r=\"1.5\"/><circle cx=\"15\" cy=\"10\" r=\"1.5\"/><path d=\"M7.5 7.5Q9 6 10.5 7.5\"/><path d=\"M13.5 7.5Q15 6 16.5 7.5\"/><path d=\"M7.5 13.5h9Q16 18 12 18T7.5 13.5\"/></svg>",
+  "parts": {
+   "eyes": "wide",
+   "mouth": "grin",
+   "brows": "raised",
+   "extras": []
+  }
+ },
+ {
+  "design": 50,
+  "canonical": "crying loudly with open mouth",
+  "name": "crying loudly with open mouth",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"9\" cy=\"10\" r=\"1.5\"/><circle cx=\"15\" cy=\"10\" r=\"1.5\"/><ellipse cx=\"12\" cy=\"15.5\" rx=\"2\" ry=\"2.5\"/><path d=\"M8 12.5L6.5 16\"/><path d=\"M16 12.5L17.5 16\"/></svg>",
+  "parts": {
+   "eyes": "wide",
+   "mouth": "gasp",
+   "brows": null,
+   "extras": [
+    "tears"
+   ]
+  }
+ },
+ {
+  "design": 50,
+  "canonical": "crying loudly with open mouth",
+  "name": "wailing",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"9\" cy=\"10\" r=\"1.5\"/><circle cx=\"15\" cy=\"10\" r=\"1.5\"/><ellipse cx=\"12\" cy=\"15.5\" rx=\"2\" ry=\"2.5\"/><path d=\"M8 12.5L6.5 16\"/><path d=\"M16 12.5L17.5 16\"/></svg>",
+  "parts": {
+   "eyes": "wide",
+   "mouth": "gasp",
+   "brows": null,
+   "extras": [
+    "tears"
+   ]
+  }
+ },
+ {
+  "design": 51,
+  "canonical": "sad wink",
+  "name": "sad wink",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M9.5 16Q12 14.5 14.5 16\"/></svg>",
+  "parts": {
+   "eyes": "wink",
+   "mouth": "slightfrown",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 51,
+  "canonical": "sad wink",
+  "name": "melancholy",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M9.5 16Q12 14.5 14.5 16\"/></svg>",
+  "parts": {
+   "eyes": "wink",
+   "mouth": "slightfrown",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 52,
+  "canonical": "cold sweat",
+  "name": "cold sweat",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"9\" cy=\"10\" r=\"1.5\"/><circle cx=\"15\" cy=\"10\" r=\"1.5\"/><path d=\"M7 8l3-1.5\"/><path d=\"M17 8l-3-1.5\"/><path d=\"M8.5 15.5q1.5-1.5 3 0t3 0\"/><path d=\"M20 1.5c1.2 1.7 1.9 2.7 1.9 3.4a1.9 1.9 0 0 1-3.8 0c0-.7.7-1.7 1.9-3.4z\"/></svg>",
+  "parts": {
+   "eyes": "wide",
+   "mouth": "wavy",
+   "brows": "worried",
+   "extras": [
+    "sweat"
+   ]
+  }
+ },
+ {
+  "design": 52,
+  "canonical": "cold sweat",
+  "name": "panicking",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"9\" cy=\"10\" r=\"1.5\"/><circle cx=\"15\" cy=\"10\" r=\"1.5\"/><path d=\"M7 8l3-1.5\"/><path d=\"M17 8l-3-1.5\"/><path d=\"M8.5 15.5q1.5-1.5 3 0t3 0\"/><path d=\"M20 1.5c1.2 1.7 1.9 2.7 1.9 3.4a1.9 1.9 0 0 1-3.8 0c0-.7.7-1.7 1.9-3.4z\"/></svg>",
+  "parts": {
+   "eyes": "wide",
+   "mouth": "wavy",
+   "brows": "worried",
+   "extras": [
+    "sweat"
+   ]
+  }
+ },
+ {
+  "design": 53,
+  "canonical": "smug face",
+  "name": "smug face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M13.5 9.5Q15 11.5 16.5 9.5\"/><path d=\"M9 15.5Q12 17 15 14.5\"/></svg>",
+  "parts": {
+   "eyes": "closed",
+   "mouth": "smirk",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 53,
+  "canonical": "smug face",
+  "name": "self satisfied",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M13.5 9.5Q15 11.5 16.5 9.5\"/><path d=\"M9 15.5Q12 17 15 14.5\"/></svg>",
+  "parts": {
+   "eyes": "closed",
+   "mouth": "smirk",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 54,
+  "canonical": "blank stare",
+  "name": "blank stare",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"9\" cy=\"10\" r=\"1.5\"/><circle cx=\"15\" cy=\"10\" r=\"1.5\"/><path d=\"M9 15.5h6\"/></svg>",
+  "parts": {
+   "eyes": "wide",
+   "mouth": "flat",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 54,
+  "canonical": "blank stare",
+  "name": "vacant face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"9\" cy=\"10\" r=\"1.5\"/><circle cx=\"15\" cy=\"10\" r=\"1.5\"/><path d=\"M9 15.5h6\"/></svg>",
+  "parts": {
+   "eyes": "wide",
+   "mouth": "flat",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 55,
+  "canonical": "disappointed face",
+  "name": "disappointed face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M13.5 9.5Q15 11.5 16.5 9.5\"/><path d=\"M7 8l3-1.5\"/><path d=\"M17 8l-3-1.5\"/><path d=\"M8 16.5Q12 13 16 16.5\"/></svg>",
+  "parts": {
+   "eyes": "closed",
+   "mouth": "frown",
+   "brows": "worried",
+   "extras": []
+  }
+ },
+ {
+  "design": 55,
+  "canonical": "disappointed face",
+  "name": "let down",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M13.5 9.5Q15 11.5 16.5 9.5\"/><path d=\"M7 8l3-1.5\"/><path d=\"M17 8l-3-1.5\"/><path d=\"M8 16.5Q12 13 16 16.5\"/></svg>",
+  "parts": {
+   "eyes": "closed",
+   "mouth": "frown",
+   "brows": "worried",
+   "extras": []
+  }
+ },
+ {
+  "design": 56,
+  "canonical": "hopeful face",
+  "name": "hopeful face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9v1.5\"/><path d=\"M15 9v1.5\"/><path d=\"M7 8l3-1.5\"/><path d=\"M17 8l-3-1.5\"/><path d=\"M9.5 14.5Q12 16 14.5 14.5\"/></svg>",
+  "parts": {
+   "eyes": "up",
+   "mouth": "slight",
+   "brows": "worried",
+   "extras": []
+  }
+ },
+ {
+  "design": 56,
+  "canonical": "hopeful face",
+  "name": "wishing",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9v1.5\"/><path d=\"M15 9v1.5\"/><path d=\"M7 8l3-1.5\"/><path d=\"M17 8l-3-1.5\"/><path d=\"M9.5 14.5Q12 16 14.5 14.5\"/></svg>",
+  "parts": {
+   "eyes": "up",
+   "mouth": "slight",
+   "brows": "worried",
+   "extras": []
+  }
+ },
+ {
+  "design": 57,
+  "canonical": "mischievous grin",
+  "name": "mischievous grin",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M7.5 13.5h9Q16 18 12 18T7.5 13.5\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "grin",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 57,
+  "canonical": "mischievous grin",
+  "name": "up to something",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 10h3\"/><path d=\"M13.5 10h3\"/><path d=\"M7.5 13.5h9Q16 18 12 18T7.5 13.5\"/></svg>",
+  "parts": {
+   "eyes": "squint",
+   "mouth": "grin",
+   "brows": null,
+   "extras": []
+  }
+ },
+ {
+  "design": 58,
+  "canonical": "eager face",
+  "name": "eager face",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"9\" cy=\"10\" r=\"1.5\"/><circle cx=\"15\" cy=\"10\" r=\"1.5\"/><path d=\"M7.5 7.5Q9 6 10.5 7.5\"/><path d=\"M13.5 7.5Q15 6 16.5 7.5\"/><path d=\"M8 14Q12 17.5 16 14\"/></svg>",
+  "parts": {
+   "eyes": "wide",
+   "mouth": "smile",
+   "brows": "raised",
+   "extras": []
+  }
+ },
+ {
+  "design": 58,
+  "canonical": "eager face",
+  "name": "wide eyed smile",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"9\" cy=\"10\" r=\"1.5\"/><circle cx=\"15\" cy=\"10\" r=\"1.5\"/><path d=\"M7.5 7.5Q9 6 10.5 7.5\"/><path d=\"M13.5 7.5Q15 6 16.5 7.5\"/><path d=\"M8 14Q12 17.5 16 14\"/></svg>",
+  "parts": {
+   "eyes": "wide",
+   "mouth": "smile",
+   "brows": "raised",
+   "extras": []
+  }
+ },
+ {
+  "design": 58,
+  "canonical": "eager face",
+  "name": "keen",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"9\" cy=\"10\" r=\"1.5\"/><circle cx=\"15\" cy=\"10\" r=\"1.5\"/><path d=\"M7.5 7.5Q9 6 10.5 7.5\"/><path d=\"M13.5 7.5Q15 6 16.5 7.5\"/><path d=\"M8 14Q12 17.5 16 14\"/></svg>",
+  "parts": {
+   "eyes": "wide",
+   "mouth": "smile",
+   "brows": "raised",
+   "extras": []
+  }
+ },
+ {
+  "design": 59,
+  "canonical": "angel with a wink",
+  "name": "angel with a wink",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M9.5 14.5Q12 16 14.5 14.5\"/><ellipse cx=\"12\" cy=\"1.5\" rx=\"4.5\" ry=\"1.5\"/></svg>",
+  "parts": {
+   "eyes": "wink",
+   "mouth": "slight",
+   "brows": null,
+   "extras": [
+    "halo"
+   ]
+  }
+ },
+ {
+  "design": 59,
+  "canonical": "angel with a wink",
+  "name": "cheeky angel",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M7.5 9.5Q9 11.5 10.5 9.5\"/><path d=\"M15 9.5v1.5\"/><path d=\"M9.5 14.5Q12 16 14.5 14.5\"/><ellipse cx=\"12\" cy=\"1.5\" rx=\"4.5\" ry=\"1.5\"/></svg>",
+  "parts": {
+   "eyes": "wink",
+   "mouth": "slight",
+   "brows": null,
+   "extras": [
+    "halo"
+   ]
+  }
+ }
+]

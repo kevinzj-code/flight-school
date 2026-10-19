@@ -1,0 +1,39 @@
+node_modules/
+# Built from src-tauri/recorder/Recorder.swift by build.rs on every machine
+src-tauri/binaries/fs-recorder-*
+src-tauri/target/
+src-tauri/gen/schemas/
+**/__pycache__/
+.DS_Store
+*.dmg
+
+# The managed venv, HF model downloads, and per-run training artifacts all live
+# under the app's own data dir (~/Library/Application Support/...), not the repo —
+# nothing under here should ever end up inside the project directory. This entry
+# is a safety net in case a dev-mode run ever writes locally by mistake.
+.flight-school-data/
+
+# Browser preview of the app, built by a local script from this machine's run
+# folders — never source, never committed.
+scripts/preview-app/
+
+# llama-server logs written by instructor/fly.py in dev mode — never source
+src-tauri/python/runs/
+.pytest_cache/
+.claude/settings.local.json
+
+# Converted textbooks are not ours to relicense (Principles of Data Science is CC BY-NC-SA)
+datasets/principles-of-data-science-reader/
+
+# The thought-partner test: its example turns quote the book (CC BY-NC-SA), and results are regenerated
+datasets/thought-partner-pds/shots_v2.json
+datasets/thought-partner-pds/results-*.json
+datasets/thought-partner-pds/server.log
+
+# Secrets and private material never belong here. Signing keys live outside any
+# repository (`cli.py keygen` refuses to write one inside), and tokens go in the
+# environment, not in files.
+.env
+.env.*
+*.key
+*.pem

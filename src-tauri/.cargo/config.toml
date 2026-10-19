@@ -1,0 +1,6 @@
+# `cargo run` (and so `npm run dev`) goes through a runner that signs the app
+# with this Mac's development certificate under a fixed identifier, so macOS
+# keeps its Screen Recording and Input Monitoring permissions across rebuilds.
+# See scripts/dev-sign-run.sh.
+[target.aarch64-apple-darwin]
+runner = ["sh", "scripts/dev-sign-run.sh"]

@@ -1,0 +1,37 @@
+# GGUF conversion environment (convert_hf_to_gguf.py) — used only by Export to GGUF.
+#
+# Pinned to match the vendored converter's source tag, ggml-org/llama.cpp @ b9967, per
+# its requirements/requirements-convert_hf_to_gguf.txt and
+# requirements-convert_legacy_llama.txt.
+#
+# NOTE: `gguf` is deliberately NOT installed from PyPI. The converter imports the
+# gguf-py vendored beside it, from the same tag. PyPI's published gguf 0.19.0 shares a
+# version number with the repo's in-development 0.19.0 but is an older snapshot,
+# missing architectures the tag's converter references — installing it and setting
+# NO_LOCAL_GGUF fails at import with AttributeError: DFLASH. The first four entries
+# below are gguf-py's own declared dependencies at that tag.
+#
+# Kept separate from requirements-train.txt because transformers==4.57.6 here is
+# incompatible with the transformers>=5.0.0 that current mlx-lm requires.
+#
+# torch is a CPU-only wheel but a large one-time download; this environment is
+# therefore created on first export rather than during initial setup.
+
+# gguf-py's dependencies (imported from python/vendor/gguf-py, not installed by pip)
+numpy~=1.26.4
+tqdm>=4.27
+pyyaml>=5.1
+requests>=2.25
+
+# convert_hf_to_gguf.py's own dependencies
+sentencepiece>=0.1.98,<0.3.0
+transformers==4.57.6
+protobuf>=4.21.0,<5.0.0
+# torch 2.11 exists only for Python 3.10+. The Xcode Command Line Tools ship
+# 3.9, and the second Mac's first run stopped here. On 3.9 the newest torch that
+# exists is used instead — safe because every conversion is re-opened and
+# compared number by number against the MLX adapter it came from (the
+# verification gate), so a torch that produced a wrong file would be caught,
+# not shipped. The converter uses only basic tensor operations.
+torch==2.11.0; python_version >= "3.10"
+torch>=2.5,<2.9; python_version < "3.10"

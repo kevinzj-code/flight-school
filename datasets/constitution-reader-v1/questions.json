@@ -1,0 +1,706 @@
+[
+{
+"question": "What purposes does the Preamble say the Constitution is meant to serve?",
+"section": 1
+},
+{
+"question": "In whose name is the Constitution established?",
+"section": 1
+},
+{
+"question": "Does the Preamble say the Constitution is meant for future generations too?",
+"section": 1
+},
+{
+"question": "Where does the Constitution place all legislative power?",
+"section": 2
+},
+{
+"question": "How many chambers does Congress have, and what are they called?",
+"section": 2
+},
+{
+"question": "How often are members of the House of Representatives elected?",
+"section": 3
+},
+{
+"question": "How old must someone be to serve in the House of Representatives?",
+"section": 3
+},
+{
+"question": "How often must the census be taken?",
+"section": 3
+},
+{
+"question": "Who fills a vacancy in a State's House delegation?",
+"section": 3
+},
+{
+"question": "Which chamber has the power of impeachment?",
+"section": 3
+},
+{
+"question": "How many Representatives was each State given before the first census?",
+"section": 3
+},
+{
+"question": "How long is a Senator's term?",
+"section": 4
+},
+{
+"question": "What are the age and citizenship requirements for a Senator?",
+"section": 4
+},
+{
+"question": "What role does the Vice President play in the Senate?",
+"section": 4
+},
+{
+"question": "Who presides when the President is tried on impeachment, and what vote is needed to convict?",
+"section": 4
+},
+{
+"question": "What is the most an impeachment judgment can do?",
+"section": 4
+},
+{
+"question": "Why are Senators divided into three classes?",
+"section": 4
+},
+{
+"question": "Who decides the times, places and manner of congressional elections?",
+"section": 5
+},
+{
+"question": "How often must Congress meet?",
+"section": 5
+},
+{
+"question": "Is there anything about elections that Congress may not alter?",
+"section": 5
+},
+{
+"question": "What counts as a quorum in each House?",
+"section": 6
+},
+{
+"question": "What vote is needed to expel a member of Congress?",
+"section": 6
+},
+{
+"question": "When must a recorded vote be entered in the Journal?",
+"section": 6
+},
+{
+"question": "Can one House adjourn on its own for a long stretch?",
+"section": 6
+},
+{
+"question": "Can members of Congress be arrested while attending a session?",
+"section": 7
+},
+{
+"question": "Can a member of Congress be questioned elsewhere for something said in debate?",
+"section": 7
+},
+{
+"question": "Can a sitting Senator be appointed to a federal office whose salary was just raised?",
+"section": 7
+},
+{
+"question": "Who pays members of Congress?",
+"section": 7
+},
+{
+"question": "Where must bills for raising revenue originate?",
+"section": 8
+},
+{
+"question": "What happens when the President returns a bill with objections?",
+"section": 8
+},
+{
+"question": "What happens if the President neither signs nor returns a bill within ten days?",
+"section": 8
+},
+{
+"question": "Do resolutions and votes of both Houses also go to the President?",
+"section": 8
+},
+{
+"question": "Who has the power to declare war?",
+"section": 9
+},
+{
+"question": "How long may an appropriation for the army last?",
+"section": 9
+},
+{
+"question": "What does the Constitution say about patents and copyrights?",
+"section": 9
+},
+{
+"question": "How large may the federal district be?",
+"section": 9
+},
+{
+"question": "What is the necessary and proper clause?",
+"section": 9
+},
+{
+"question": "Can Congress regulate trade with other countries?",
+"section": 9
+},
+{
+"question": "Must federal duties and excises be the same everywhere?",
+"section": 9
+},
+{
+"question": "When may the writ of habeas corpus be suspended?",
+"section": 10
+},
+{
+"question": "Can Congress pass a bill of attainder or an ex post facto law?",
+"section": 10
+},
+{
+"question": "Can the federal government tax exports?",
+"section": 10
+},
+{
+"question": "How can money be drawn from the Treasury?",
+"section": 10
+},
+{
+"question": "Can a federal officer accept a gift or title from a foreign king?",
+"section": 10
+},
+{
+"question": "Until what year was Congress barred from prohibiting the importation of persons?",
+"section": 10
+},
+{
+"question": "Can a State coin its own money?",
+"section": 11
+},
+{
+"question": "Can a State enter into a treaty with a foreign country?",
+"section": 11
+},
+{
+"question": "May a State keep troops in peacetime?",
+"section": 11
+},
+{
+"question": "When may a State engage in war on its own?",
+"section": 11
+},
+{
+"question": "What happens to the money a State collects from duties on imports?",
+"section": 11
+},
+{
+"question": "How long is the President's term?",
+"section": 12
+},
+{
+"question": "How many electors does each State get?",
+"section": 12
+},
+{
+"question": "What are the qualifications to be President?",
+"section": 12
+},
+{
+"question": "What is the presidential oath?",
+"section": 12
+},
+{
+"question": "Can the President's salary be changed during a term?",
+"section": 12
+},
+{
+"question": "Who takes over if the President is removed, dies, or resigns?",
+"section": 12
+},
+{
+"question": "Under the original electoral scheme, what happens if no candidate has a majority?",
+"section": 12
+},
+{
+"question": "Who is commander in chief of the armed forces?",
+"section": 13
+},
+{
+"question": "What vote does the Senate need to approve a treaty?",
+"section": 13
+},
+{
+"question": "Can the President pardon someone who has been impeached?",
+"section": 13
+},
+{
+"question": "Who appoints Supreme Court justices?",
+"section": 13
+},
+{
+"question": "How long does a recess appointment last?",
+"section": 13
+},
+{
+"question": "Where does the State of the Union address come from?",
+"section": 14
+},
+{
+"question": "Can the President call Congress into session?",
+"section": 14
+},
+{
+"question": "What does the take care clause require?",
+"section": 14
+},
+{
+"question": "For what can a President be impeached and removed?",
+"section": 15
+},
+{
+"question": "Who besides the President can be removed by impeachment?",
+"section": 15
+},
+{
+"question": "How long do federal judges serve?",
+"section": 16
+},
+{
+"question": "Who creates the courts below the Supreme Court?",
+"section": 16
+},
+{
+"question": "Can Congress cut a judge's pay?",
+"section": 16
+},
+{
+"question": "In what cases does the Supreme Court have original jurisdiction?",
+"section": 17
+},
+{
+"question": "Where must a federal criminal trial be held?",
+"section": 17
+},
+{
+"question": "Are criminal trials required to be by jury?",
+"section": 17
+},
+{
+"question": "Does the judicial power reach disputes between two States?",
+"section": 17
+},
+{
+"question": "How does the Constitution define treason?",
+"section": 18
+},
+{
+"question": "What evidence is needed to convict someone of treason?",
+"section": 18
+},
+{
+"question": "Can a treason conviction punish the traitor's family?",
+"section": 18
+},
+{
+"question": "What is the full faith and credit clause?",
+"section": 19
+},
+{
+"question": "Who decides how another State's records are proved?",
+"section": 19
+},
+{
+"question": "What happens to a person who commits a crime in one State and flees to another?",
+"section": 20
+},
+{
+"question": "What does the privileges and immunities clause say?",
+"section": 20
+},
+{
+"question": "What did the original text say about people escaping from service or labour?",
+"section": 20
+},
+{
+"question": "Can a new State be carved out of an existing one?",
+"section": 21
+},
+{
+"question": "Who admits new States to the Union?",
+"section": 21
+},
+{
+"question": "Who makes the rules for federal territory?",
+"section": 21
+},
+{
+"question": "What form of government does the Constitution guarantee to each State?",
+"section": 22
+},
+{
+"question": "When will the federal government protect a State against domestic violence?",
+"section": 22
+},
+{
+"question": "How can Congress propose an amendment?",
+"section": 23
+},
+{
+"question": "How is an amendment ratified?",
+"section": 23
+},
+{
+"question": "Can the States force a convention to propose amendments?",
+"section": 23
+},
+{
+"question": "Is any part of the Constitution protected from amendment?",
+"section": 23
+},
+{
+"question": "What is the supremacy clause?",
+"section": 24
+},
+{
+"question": "Can a religious test be required for public office?",
+"section": 24
+},
+{
+"question": "Who must swear to support the Constitution?",
+"section": 24
+},
+{
+"question": "What happened to debts from before the Constitution was adopted?",
+"section": 24
+},
+{
+"question": "How many States had to ratify for the Constitution to take effect?",
+"section": 25
+},
+{
+"question": "Did the Constitution bind States that had not ratified it?",
+"section": 25
+},
+{
+"question": "What freedoms does the First Amendment protect?",
+"section": 26
+},
+{
+"question": "Can Congress establish a national religion?",
+"section": 26
+},
+{
+"question": "Does the First Amendment mention the right to petition?",
+"section": 26
+},
+{
+"question": "What does the Second Amendment say?",
+"section": 27
+},
+{
+"question": "What reason does the Second Amendment give for the right to bear arms?",
+"section": 27
+},
+{
+"question": "Can soldiers be quartered in a private house in peacetime?",
+"section": 28
+},
+{
+"question": "Does the Third Amendment allow quartering during war?",
+"section": 28
+},
+{
+"question": "What is required before a warrant may issue?",
+"section": 29
+},
+{
+"question": "What does the Fourth Amendment protect?",
+"section": 29
+},
+{
+"question": "Must a warrant say what is to be seized?",
+"section": 29
+},
+{
+"question": "What is double jeopardy?",
+"section": 30
+},
+{
+"question": "Can a person be forced to testify against themselves?",
+"section": 30
+},
+{
+"question": "When must a grand jury indict before a person is tried?",
+"section": 30
+},
+{
+"question": "What does the Fifth Amendment say about taking private property?",
+"section": 30
+},
+{
+"question": "What does the Fifth Amendment say about due process?",
+"section": 30
+},
+{
+"question": "What rights does the accused have in a criminal trial?",
+"section": 31
+},
+{
+"question": "Does the accused have a right to a lawyer?",
+"section": 31
+},
+{
+"question": "Where must the jury in a criminal trial come from?",
+"section": 31
+},
+{
+"question": "Can an accused person compel witnesses to appear?",
+"section": 31
+},
+{
+"question": "When is a jury guaranteed in a civil case?",
+"section": 32
+},
+{
+"question": "Can a court re-examine a fact a jury decided?",
+"section": 32
+},
+{
+"question": "What does the Eighth Amendment forbid?",
+"section": 33
+},
+{
+"question": "Does the Constitution say anything about bail?",
+"section": 33
+},
+{
+"question": "Does listing certain rights mean people have no others?",
+"section": 34
+},
+{
+"question": "What is the Ninth Amendment about?",
+"section": 34
+},
+{
+"question": "Who holds the powers not given to the federal government?",
+"section": 35
+},
+{
+"question": "What does the Tenth Amendment say?",
+"section": 35
+},
+{
+"question": "Can a citizen of one State sue another State in federal court?",
+"section": 36
+},
+{
+"question": "What does the Eleventh Amendment limit?",
+"section": 36
+},
+{
+"question": "How do electors vote for President and Vice President under the Twelfth Amendment?",
+"section": 37
+},
+{
+"question": "Who chooses the President if no one has a majority of electoral votes?",
+"section": 37
+},
+{
+"question": "Who chooses the Vice President if no candidate has a majority?",
+"section": 37
+},
+{
+"question": "Can someone ineligible to be President be Vice President?",
+"section": 37
+},
+{
+"question": "What quorum does the House need when it chooses the President?",
+"section": 37
+},
+{
+"question": "What did the Thirteenth Amendment abolish?",
+"section": 38
+},
+{
+"question": "Who enforces the Thirteenth Amendment?",
+"section": 38
+},
+{
+"question": "Who is a citizen of the United States under the Fourteenth Amendment?",
+"section": 39
+},
+{
+"question": "What does the equal protection clause say?",
+"section": 39
+},
+{
+"question": "Can a former officer who joined an insurrection hold office again?",
+"section": 39
+},
+{
+"question": "What does the Fourteenth Amendment say about the public debt?",
+"section": 39
+},
+{
+"question": "How does the Fourteenth Amendment change apportionment?",
+"section": 39
+},
+{
+"question": "Does the Fourteenth Amendment apply due process to the States?",
+"section": 39
+},
+{
+"question": "What does the Fifteenth Amendment protect?",
+"section": 40
+},
+{
+"question": "Who may enforce the Fifteenth Amendment?",
+"section": 40
+},
+{
+"question": "Which amendment allows a federal income tax?",
+"section": 41
+},
+{
+"question": "Does an income tax have to be apportioned among the States?",
+"section": 41
+},
+{
+"question": "How are Senators chosen after the Seventeenth Amendment?",
+"section": 42
+},
+{
+"question": "How is a Senate vacancy filled?",
+"section": 42
+},
+{
+"question": "Did the Seventeenth Amendment cut short the terms of sitting Senators?",
+"section": 42
+},
+{
+"question": "What did the Eighteenth Amendment prohibit?",
+"section": 43
+},
+{
+"question": "Who could enforce Prohibition?",
+"section": 43
+},
+{
+"question": "Was there a deadline for ratifying the Eighteenth Amendment?",
+"section": 43
+},
+{
+"question": "What does the Nineteenth Amendment guarantee?",
+"section": 44
+},
+{
+"question": "Who enforces the Nineteenth Amendment?",
+"section": 44
+},
+{
+"question": "When does a President's term end?",
+"section": 45
+},
+{
+"question": "When must Congress meet each year under the Twentieth Amendment?",
+"section": 45
+},
+{
+"question": "What happens if the President elect dies before taking office?",
+"section": 45
+},
+{
+"question": "What if no President has been chosen by the start of the term?",
+"section": 45
+},
+{
+"question": "When did sections 1 and 2 of the Twentieth Amendment take effect?",
+"section": 45
+},
+{
+"question": "Which amendment repealed Prohibition?",
+"section": 46
+},
+{
+"question": "Does the Twenty-first Amendment still restrict liquor?",
+"section": 46
+},
+{
+"question": "How was the Twenty-first Amendment to be ratified?",
+"section": 46
+},
+{
+"question": "How many times can a person be elected President?",
+"section": 47
+},
+{
+"question": "Did the two-term limit apply to the President in office when it was proposed?",
+"section": 47
+},
+{
+"question": "What is the ratification deadline in the Twenty-second Amendment?",
+"section": 47
+},
+{
+"question": "Does the District of Columbia get presidential electors?",
+"section": 48
+},
+{
+"question": "How do the District's electors act?",
+"section": 48
+},
+{
+"question": "Who decides how the District appoints its electors?",
+"section": 48
+},
+{
+"question": "Can a State require a poll tax to vote in a federal election?",
+"section": 49
+},
+{
+"question": "Which elections does the Twenty-fourth Amendment cover?",
+"section": 49
+},
+{
+"question": "What happens when the President resigns?",
+"section": 50
+},
+{
+"question": "How is a vacancy in the Vice Presidency filled?",
+"section": 50
+},
+{
+"question": "How can a President temporarily hand over power?",
+"section": 50
+},
+{
+"question": "How can the Vice President and cabinet declare the President unable to serve?",
+"section": 50
+},
+{
+"question": "What vote does Congress need to keep the Vice President as Acting President over the President's objection?",
+"section": 50
+},
+{
+"question": "What is the voting age set by the Constitution?",
+"section": 51
+},
+{
+"question": "Who can enforce the Twenty-sixth Amendment?",
+"section": 51
+},
+{
+"question": "When can a pay raise for Congress take effect?",
+"section": 52
+},
+{
+"question": "What does the Twenty-seventh Amendment deal with?",
+"section": 52
+}
+]

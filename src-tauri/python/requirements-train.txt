@@ -1,0 +1,27 @@
+# Training environment (mlx_lm.lora / fuse / generate) — Apple Silicon LoRA training.
+#
+# Kept apart from requirements-convert.txt: mlx-lm requires transformers>=5,
+# while llama.cpp's GGUF converter pins transformers==4.57.6. Those two cannot
+# coexist in one environment — pip resolves the conflict by silently
+# downgrading mlx-lm, which changes its CLI surface. Two venvs, no conflict.
+#
+# PINNED to the versions every number in the baseline notes was measured on
+# (2026-09-24). An unpinned install gets whatever PyPI has that morning, which
+# is how a typosquatted or broken release lands on every Mac at once. Move a
+# pin on purpose, then re-run the standing gates.
+#
+# Nothing here needs torch, so this environment installs in about a minute.
+mlx==0.32.2
+mlx-metal==0.32.2
+mlx-lm==0.31.3
+transformers==5.16.1
+safetensors==0.8.0
+numpy==2.4.6
+huggingface_hub==1.29.0
+Jinja2==3.1.6
+# PDF reference-material extraction for the lesson flow (text-layer only — no
+# OCR; scanned PDFs are rejected with a clear message, per the lesson spec).
+pypdf==6.16.2
+# TOML reading. Standard as `tomllib` from Python 3.11; the Xcode Command Line
+# Tools ship 3.9, and the first second-Mac run failed on exactly this line.
+tomli==2.2.1; python_version < "3.11"

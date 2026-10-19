@@ -1,0 +1,87 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "Airoplane Mode - Flight School",
+  "version": "0.1.0",
+  "identifier": "mode.airoplane.flightschool",
+  "build": {
+    "frontendDist": "../src",
+    "beforeBundleCommand": "find . -path '*/python/*' -name __pycache__ -prune -exec rm -rf {} +"
+  },
+  "app": {
+    "withGlobalTauri": true,
+    "windows": [
+      {
+        "title": "Airoplane Mode — Flight School",
+        "label": "main",
+        "width": 1000,
+        "height": 780,
+        "minWidth": 820,
+        "minHeight": 560,
+        "titleBarStyle": "Overlay",
+        "hiddenTitle": true
+      }
+    ],
+    "security": {
+      "csp": "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: pic:; connect-src ipc: http://ipc.localhost"
+    }
+  },
+  "bundle": {
+    "active": true,
+    "targets": [
+      "app",
+      "dmg"
+    ],
+    "icon": [
+      "icons/32x32.png",
+      "icons/128x128.png",
+      "icons/128x128@2x.png",
+      "icons/icon.icns",
+      "icons/icon.ico"
+    ],
+    "resources": [
+      "python/requirements-train.txt",
+      "python/requirements-convert.txt",
+      "python/mlx_adapter_to_peft.py",
+      "python/vendor/**/*",
+      "python/quickbuild.py",
+      "python/pigeonlook.py",
+      "python/iconrules.py",
+      "python/instructor/**/*",
+      "python/bench/__init__.py",
+      "python/bench/corpus.py",
+      "python/bench/leak.py",
+      "python/bench/significance.py",
+      "python/pigeon/**/*",
+      "python/scripts/**/*",
+      "registry/registry.zip",
+      "keys/registry-keys.json"
+    ],
+    "macOS": {
+      "minimumSystemVersion": "12.0"
+    },
+    "externalBin": [
+      "binaries/llama-server",
+      "binaries/fs-recorder"
+    ],
+    "fileAssociations": [
+      {
+        "ext": [
+          "pigeon"
+        ],
+        "name": "Pigeon",
+        "description": "A trained Pigeon",
+        "role": "Viewer",
+        "mimeType": "application/x-pigeon+zip"
+      },
+      {
+        "ext": [
+          "nest"
+        ],
+        "name": "Nest",
+        "description": "A flock of Pigeons",
+        "role": "Viewer",
+        "mimeType": "application/x-nest+zip"
+      }
+    ]
+  }
+}

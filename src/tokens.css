@@ -1,0 +1,123 @@
+/* tokens.css — the colours, type, shadows and radii every Airoplane Mode
+ * window draws with. SHARED: Pigeon and Flight School carry this same file,
+ * byte for byte, so the two read as one family.
+ *
+ *   the source   pigeon/styles/tokens.css (this file)
+ *   the copy     Flight School's src/tokens.css — `npm run tokens` there copies
+ *                it over, and Flight School's tests fail when the two differ.
+ *
+ * Change a value here, then copy it; never edit the copy. Nothing in this file
+ * belongs to one app's layout — a rail width or a gutter lives in that app's
+ * own stylesheet. The fonts are named here but loaded by each app, because the
+ * two keep their font files at different paths.
+ *
+ * Light is the default. Dark applies when the root carries data-theme="dark",
+ * or data-theme="system" on a Mac set to dark: Pigeon's Settings chooses, and
+ * Flight School's page carries "system".
+ *
+ * Two rules the dark values keep, and Pigeon's scripts/test.mjs measures both:
+ *   · nothing pale on a pale ground and nothing dark on a dark one — every
+ *     text colour clears 4.5:1 against the ground it sits on;
+ *   · a Pigeon's bubble stays light in dark mode, with dark text, so your own
+ *     bubble is the darker of the two — and every token used inside that bubble
+ *     is put back to its light value there, so a value, a rule or a badge in it
+ *     never goes pale on pale.
+ */
+:root{
+  --paper:#E5F1F7; --panel:#E1EEF3; --surface:#FFFFFF; --surface-sunk:#F2F8FB; --hover:#EEF5F8; --border:#E1E8EA;
+  --border-strong:#C3D8E4; --border-control:#A9C6D6;
+  --ink:#16283A; --ink-soft:#4C6070; --ink-faint:#586C7C;
+  --user:#16324A; --on-user:#FFFFFF;
+  --aqua:#2C6E8C; --aqua-deep:#1C4E66; --aqua-tint:rgba(44,110,140,.12); --aqua-line:rgba(44,110,140,.55); --on-accent:#FFFFFF;
+  --chip:#D9EDF6; --chip-line:#9FC4D8;
+  --amber:#FFB340; --warn-bg:#FFF6E6; --warn-line:rgba(255,179,64,.5); --warn-ink:#8A5A08;
+  --gold:#C9A15D; --gold-hairline:rgba(201,161,93,.35);
+  --green:#297A25; --green-ink:#2C6A52; --danger:#B4483F; --danger-bg:#FBEDEB; --on-danger:#FFFFFF;
+  --solid:#16283A; --on-solid:#FFFFFF; --patch-bg:#16283A; --patch-fg:#FFFFFF;
+  --gen-rule:#A67C0E; --scrim:rgba(22,40,58,.34); --shade:rgba(22,40,58,.5); --shade-line:rgba(255,255,255,.8);
+  --glint:rgba(150,196,224,0.65);
+  --fail-bg:rgba(180,72,63,.06); --fail-line:rgba(180,72,63,.25); --ok-tint:rgba(41,122,37,.13); --bad-tint:rgba(180,72,63,.12);
+  --dur-fast:.15s; --dur-med:.25s; --ease:ease;
+  --shadow-card:0 2px 6px rgba(22,40,58,.06);
+  --shadow-float:0 14px 34px rgba(10,30,45,.2);
+  --shadow-modal:0 24px 60px rgba(10,30,45,.28);
+  --shadow-solid:0 4px 10px rgba(22,40,58,.3);
+  --code-bg:rgba(22,40,58,.06);
+  --disabled-opacity:.45;
+  --radius-sm:6px; --radius:10px; --radius-card:14px; --radius-modal:18px;
+  --radius-organic:26px 10px 26px 10px; --radius-organic-sm:16px 6px 16px 6px;
+  --sans:'Hanken Grotesk',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+  --mono:'IBM Plex Mono',ui-monospace,'SF Mono',Menlo,monospace;
+  --t-xs:11px; --t-sm:12.5px; --t-md:14px; --t-lg:17px; --t-xl:22px; --t-2xl:28px;
+}
+
+/* Dark. Written out twice — once for the explicit choice and once for System
+   on a dark Mac — because CSS has no way to share a block; the test suite
+   checks the two copies agree. Patch's avatar inverts: light square, dark bird. */
+:root[data-theme="dark"]{
+  --paper:#0D1720; --panel:#1B2B3A; --surface:#132230; --surface-sunk:#101C28; --hover:#172736; --border:#23374A;
+  --border-strong:#2F475C; --border-control:#3F5B72;
+  --ink:#E2EDF3; --ink-soft:#A8BBC8; --ink-faint:#8599A8;
+  --user:#122A40; --on-user:#F2F8FB;
+  --aqua:#6DB0CF; --aqua-deep:#8CC4DE; --aqua-tint:rgba(109,176,207,.16); --aqua-line:rgba(109,176,207,.6); --on-accent:#0D1720;
+  --chip:#1E3A4D; --chip-line:#3C6C87;
+  --warn-bg:#2A2318; --warn-line:rgba(255,179,64,.36); --warn-ink:#F0C27A;
+  --amber:#FFC466; --gold:#D9B26E; --glint:rgba(150,196,224,.35);
+  --gold-hairline:rgba(201,161,93,.3);
+  --fail-bg:rgba(224,120,110,.14); --fail-line:rgba(224,120,110,.45); --ok-tint:rgba(114,192,107,.2); --bad-tint:rgba(224,120,110,.22);
+  --green:#72C06B; --green-ink:#7FCBA8; --danger:#E0786E; --danger-bg:#3A211E; --on-danger:#0D1720;
+  --solid:#E2EDF3; --on-solid:#0D1720; --patch-bg:#E2EDF3; --patch-fg:#0D1720;
+  --gen-rule:#D9A441; --scrim:rgba(0,0,0,.5); --shade:rgba(0,0,0,.6); --shade-line:rgba(255,255,255,.6);
+  --shadow-card:0 2px 6px rgba(0,0,0,.25);
+  --shadow-float:0 14px 34px rgba(0,0,0,.45);
+  --shadow-modal:0 24px 60px rgba(0,0,0,.55);
+  --shadow-solid:0 4px 10px rgba(0,0,0,.45);
+  --code-bg:rgba(0,0,0,.28);
+  color-scheme:dark;
+}
+@media (prefers-color-scheme:dark){
+  :root[data-theme="system"]{
+    --paper:#0D1720; --panel:#1B2B3A; --surface:#132230; --surface-sunk:#101C28; --hover:#172736; --border:#23374A;
+    --border-strong:#2F475C; --border-control:#3F5B72;
+    --ink:#E2EDF3; --ink-soft:#A8BBC8; --ink-faint:#8599A8;
+    --user:#122A40; --on-user:#F2F8FB;
+    --aqua:#6DB0CF; --aqua-deep:#8CC4DE; --aqua-tint:rgba(109,176,207,.16); --aqua-line:rgba(109,176,207,.6); --on-accent:#0D1720;
+    --chip:#1E3A4D; --chip-line:#3C6C87;
+    --warn-bg:#2A2318; --warn-line:rgba(255,179,64,.36); --warn-ink:#F0C27A;
+    --amber:#FFC466; --gold:#D9B26E; --glint:rgba(150,196,224,.35);
+    --gold-hairline:rgba(201,161,93,.3);
+    --fail-bg:rgba(224,120,110,.14); --fail-line:rgba(224,120,110,.45); --ok-tint:rgba(114,192,107,.2); --bad-tint:rgba(224,120,110,.22);
+    --green:#72C06B; --green-ink:#7FCBA8; --danger:#E0786E; --danger-bg:#3A211E; --on-danger:#0D1720;
+    --solid:#E2EDF3; --on-solid:#0D1720; --patch-bg:#E2EDF3; --patch-fg:#0D1720;
+    --gen-rule:#D9A441; --scrim:rgba(0,0,0,.5); --shade:rgba(0,0,0,.6); --shade-line:rgba(255,255,255,.6);
+    --shadow-card:0 2px 6px rgba(0,0,0,.25);
+    --shadow-float:0 14px 34px rgba(0,0,0,.45);
+    --shadow-modal:0 24px 60px rgba(0,0,0,.55);
+    --shadow-solid:0 4px 10px rgba(0,0,0,.45);
+    --code-bg:rgba(0,0,0,.28);
+    color-scheme:dark;
+  }
+}
+
+/* A Pigeon's bubble in dark mode: light, with its light-mode tokens back inside
+   it — the aqua rule and marked values, the dark-yellow rule and badge, a
+   failure's red — so nothing in it is pale on pale. Pigeon's selectors, kept
+   here because they are token overrides; Flight School has no such element. */
+:root[data-theme="dark"] .bub.ai,:root[data-theme="dark"] .typing-bub,:root[data-theme="dark"] .cf-row.patch .cf-bub{
+  --surface:#F2F7FA; --panel:#E1EEF3; --paper:#E5F1F7; --hover:#EEF5F8; --border:#CFDAE0;
+  --ink:#16283A; --ink-soft:#4C6070; --ink-faint:#586C7C;
+  --aqua:#2C6E8C; --aqua-tint:rgba(44,110,140,.12); --aqua-line:rgba(44,110,140,.55); --on-accent:#FFFFFF;
+  --gen-rule:#A67C0E; --warn-bg:#FFF6E6; --warn-ink:#8A5A08; --danger:#B4483F;
+  --gold:#C9A15D; --gold-hairline:rgba(201,161,93,.45); --green:#297A25; --amber:#D99A2B;
+  background:var(--surface); color:var(--ink); border-color:var(--border);
+}
+@media (prefers-color-scheme:dark){
+  :root[data-theme="system"] .bub.ai,:root[data-theme="system"] .typing-bub,:root[data-theme="system"] .cf-row.patch .cf-bub{
+    --surface:#F2F7FA; --panel:#E1EEF3; --paper:#E5F1F7; --hover:#EEF5F8; --border:#CFDAE0;
+    --ink:#16283A; --ink-soft:#4C6070; --ink-faint:#586C7C;
+    --aqua:#2C6E8C; --aqua-tint:rgba(44,110,140,.12); --aqua-line:rgba(44,110,140,.55); --on-accent:#FFFFFF;
+    --gen-rule:#A67C0E; --warn-bg:#FFF6E6; --warn-ink:#8A5A08; --danger:#B4483F;
+    --gold:#C9A15D; --gold-hairline:rgba(201,161,93,.45); --green:#297A25; --amber:#D99A2B;
+    background:var(--surface); color:var(--ink); border-color:var(--border);
+  }
+}

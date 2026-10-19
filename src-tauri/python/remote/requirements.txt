@@ -1,0 +1,14 @@
+# The pod's training environment (train_remote.py), installed on top of the image
+# runpod/pytorch:1.0.2-cu1281-torch280-ubuntu2404, whose torch is used as it is:
+torch==2.8.0
+# transformers is the converter venv's pin (requirements-convert.txt); with it the
+# pinned Qwen/Qwen3-VL-2B-Instruct tokenizer gives every asks row the same tokens
+# as mlx-lm on the Mac (6,733 of 6,733, 2026-10-13). train_remote.py re-checks
+# that on every run and refuses to train if one row differs.
+transformers==4.57.6
+peft==0.17.1
+accelerate==1.10.1
+safetensors==0.6.2
+huggingface_hub==0.36.2
+# numpy's legacy RandomState stream is frozen (NEP 19); the row order depends on it.
+numpy==1.26.4

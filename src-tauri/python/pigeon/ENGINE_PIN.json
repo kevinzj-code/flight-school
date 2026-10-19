@@ -1,0 +1,6 @@
+{
+ "commit": "032380d",
+ "version": "libpigeon 0.1.0 (llama.cpp 26394b4; spec 1; prefix-cache 2048)",
+ "prefix_cache": 2048,
+ "built_from": "github.com/kevinzj-code/pigeon main (each Pigeon's prompt prefix kept between asks; the stamp names the setting); cargo build --release -p pigeon-engine --bin pigeon-ride"
+}
